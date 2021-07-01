@@ -58,6 +58,10 @@
                <!-- Submit button -->
                <button type="submit" class="btn btn-primary btn-block" style="width: 100px">Sign in</button>
            </form>
+           <form action="sign-up.jsp" method="post">
+               <button type="submit"> CLICK </button>
+           </form>
+
        </div>
        <div class="col-2"></div>
    </div>
